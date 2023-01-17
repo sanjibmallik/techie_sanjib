@@ -2217,7 +2217,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "span", 2);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "Clarence Taylor");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "Sanjib Mallik");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
