@@ -1,0 +1,16 @@
+<section class="resume-section" id="education">
+    <div class="resume-section-content" *ngIf="eduDetails">
+        <h2 class="mb-5">Education</h2>
+        <div *ngFor="let education of eduDetails" class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+                <h3>{{education.course}}</h3>
+                <div class="subheading"><strong>Institute Name: </strong>{{education.collegeName}}</div>
+                <h5>University: <a href="javascript:void()">{{education.university}}</a></h5>
+                <!-- <div class="subheading">Passing Year: {{education.yearOfPassing}}</div> -->
+
+                <h5>{{education.degree}} with {{education.grade}}</h5>
+            </div>
+            <div class="flex-shrink-0"><span class="text-primary">{{education.period}}</span></div>
+        </div>
+    </div>
+</section>

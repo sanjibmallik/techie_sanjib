@@ -1,0 +1,15 @@
+<section class="resume-section" id="certification">
+    <div class="resume-section-content" *ngIf="certifications">
+        <h2 class="mb-5">Certifications</h2>
+        <div *ngFor="let certification of certifications"
+            class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+                <h3>{{certification.name}}</h3>
+                <div class="subheading"><strong>Provider: </strong>{{certification.provider}}</div>
+                <h5>Link: <a target="blank" href="{{certification.link}}">{{certification.link}}</a></h5>
+                <!-- <div class="subheading">Passing Year: {{education.yearOfPassing}}</div> -->
+            </div>
+            <!-- <div class="flex-shrink-0"><span class="text-primary">{{education.period}}</span></div> -->
+        </div>
+    </div>
+</section>

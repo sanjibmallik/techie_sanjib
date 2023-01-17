@@ -1,0 +1,83 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "collegeName": "Priyadarshini Indira Gandhi College Of Engineering",
+            "place": "Nagpur, Maharashtra, INDIA",
+            "grade": "1st Class",
+            "course": "Computer Science And Engineering",
+            "degree": "Bachelor Of Engineering",
+            "period": "June 2010 to July 2013",
+            "yearOfPassing": "2013",
+            "university": "RTM Nagpur University"
+        },
+        {
+            "id": 2,
+            "collegeName": "Tripura Institute Of Technology",
+            "place": "Agartala, Tripura, INDIA",
+            "grade": "1st Class",
+            "course": "Computer Science And Technology",
+            "degree": "Diploma",
+            "period": "Aug 2006 to Jan 2010",
+            "yearOfPassing": "2010",
+            "university": "West Bengal State Council Of Technical Education"
+        }
+    ],
+    "certification": [
+        {
+            "name": "Angular Certification",
+            "link": "https://www.udemy.com/certificate/UC-DL2X8YFS/",
+            "provider": "Udemy"
+        },
+        {
+            "name": "Java J2EE",
+            "link": "Link coming soon",
+            "provider": "JavaFirstTrack"
+        }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "companyName": "AccionLabs Canada",
+            "website": "https://www.accionlabs.com",
+            "period": "May 2022 to till Date",
+            "role": "Front-end Engineer",
+            "companyProfile": "",
+            "responsibilities": [
+                {
+                    "id": 1,
+                    "res": "Design and coding"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "companyName": "AccionLabs Pvt Ltd",
+            "website": "https://www.accionlabs.com",
+            "period": "September 2015 to May-2022",
+            "role": "Senior Software Engineer",
+            "companyProfile": "",
+            "responsibilities": [
+                {
+                    "id": 1,
+                    "res": "Design and coding"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "companyName": "AccionLabs Pvt Ltd",
+            "website": "https://www.accionlabs.com",
+            "period": "March 2015 to September 2015",
+            "role": "Intern",
+            "companyProfile": "",
+            "responsibilities": [
+                {
+                    "id": 1,
+                    "res": "Design and coding"
+                }
+            ]
+        }
+    ],
+    "projects": []
+}
