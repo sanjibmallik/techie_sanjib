@@ -1,0 +1,28 @@
+{
+    "links": [
+        {
+            "name": "About",
+            "link": "#about"
+        },
+        {
+            "name": "Experience",
+            "link": "#experience"
+        },
+        {
+            "name": "Education",
+            "link": "#education"
+        },
+        {
+            "name": "Skills",
+            "link": "#Skills"
+        },
+        {
+            "name": "Interests",
+            "link": "#interests"
+        },
+        {
+            "name": "Awards",
+            "link": "#awards"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "name": "Angular",
+      "rate": 80,
+      "icon": "fa-angular"
+    },
+    {
+      "name": "React",
+      "rate": 60,
+      "icon": "fa-react"
+    },
+    {
+      "name": "JavaScript",
+      "rate": 80,
+      "icon": "fa-angular"
+    },
+    {
+      "name": "TypeScript",
+      "rate": 60,
+      "icon": "fa-angular"
+    },
+    {
+      "name": "HTML",
+      "rate": 70,
+      "icon": "fa-html5"
+    },
+    {
+      "name": "CSS",
+      "rate": 60,
+      "icon": "fa-css3-alt"
+    },
+    {
+      "name": "Bootstrap",
+      "rate": 60,
+      "icon": "fa-angular"
+    },
+    {
+      "name": "SpringBoot",
+      "rate": 60,
+      "icon": "fa-angular"
+    },
+    {
+      "name": "MySql",
+      "rate": 60,
+      "icon": "fa-angular"
+    },
+    {
+      "name": "NodeJS",
+      "rate": 60,
+      "icon": "fa-node-js"
+    }
+  ]
+}
